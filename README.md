@@ -1,5 +1,5 @@
 # Nothing
-Nothing based on nothing doing nothing
+Nothing based on nothing doing nothing more than NothingJS
 
 
 *pronoun*
